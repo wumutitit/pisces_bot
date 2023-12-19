@@ -61,5 +61,40 @@
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_ec.png?format=png",
             "theme": "Perfect Energy",
         }
+    ],
+        "ommw_ir": [
+        {
+            "name": "``Red Velvet`` On my milky way - **IRENE**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_ir.png?format=png",
+            "theme": "On my milky way",
+        }
+    ],
+        "ommw_sg": [
+        {
+            "name": "``Red Velvet`` On my milky way - **SEULGI**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_sg.png?format=png",
+            "theme": "On my milky way",
+        }
+    ],
+        "ommw_jo": [
+        {
+            "name": "``Red Velvet`` On my milky way - **JOY**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_jo.png?format=png",
+            "theme": "On my milky way",
+        }
+    ],
+        "ommw_wd": [
+        {
+            "name": "``Red Velvet`` On my milky way - **WENDY**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_wd.png?format=png",
+            "theme": "On my milky way",
+        }
+    ],
+        "ommw_yr": [
+        {
+            "name": "``Red Velvet`` On my milky way - **YERI**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_yr.png?format=png",
+            "theme": "On my milky way",
+        }
     ]
 }
