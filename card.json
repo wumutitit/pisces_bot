@@ -1,34 +1,34 @@
 {
     "aeitd_kr_co": [
         {
-            "name": "``aespa`` I'm the drama - **KARINA**",
+            "name": "`aespa` **I'm the drama** - KARINA",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_kr.png?format=png",
             "theme": "I'm the drama",
-            "code": "aeitdr_kr_co"
+            "print": "0"
         }
     ],
     "aeitd_gs_co": [
         {
-            "name": "``aespa`` I'm the drama - **GISELLE**",
+            "name": "`aespa` **I'm the drama** - GISELLE",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_gs.png?format=png",
             "theme": "I'm the drama",
-            "code": "aeitd_gs_co"
+            "print": "0"
         }
     ],
     "aeitd_wt_co": [
         {
-            "name": "``aespa`` I'm the drama - **WINTER**",
+            "name": "`aespa` **I'm the drama** - WINTER",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_wt.png?format=png",
             "theme": "I'm the drama",
-            "code": "aeitd_wt_co"
+            "print": "0"
         }
     ],
     "aeitd_nn_co": [
         {
-            "name": "``aespa`` I'm the drama - **NINGNING**",
+            "name": "`aespa` **I'm the drama** - NINGNING",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_nn.png?format=png",
             "theme": "I'm the drama",
-            "code": "aeitd_nn_co"
+            "print": "0"
         }
     ]
 }
