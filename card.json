@@ -1,8 +1,30 @@
 {
     "itdr_kr": [
         {
-            "name": "<:c_grade:1167857473714131074> **SHOTARO** Get A Guitar",
+            "name"``aespa`` I'm the drama - **KARINA**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_kr.png?format=png",
             "theme": "I'm the drama",
         }
+    ],
+        "itdr_gs": [
+        {
+            "name": "``aespa`` I'm the drama - **GISELLE**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_gs.png?format=png",
+            "theme": "I'm the drama",
+        }
+    ],
+        "itdr_wt": [
+        {
+            "name": "``aespa`` I'm the drama - **WINTER**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_wt.png?format=png",
+            "theme": "I'm the drama",
+        }
+    ],
+        "itdr_nn": [
+        {
+            "name": "``aespa`` I'm the drama - **NINGNING**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_nn.png?format=png",
+            "theme": "I'm the drama",
+        }
     ]
+}
