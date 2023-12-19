@@ -1,7 +1,7 @@
 {
     "itdr_kr": [
         {
-            "name": ``aespa`` I'm the drama - **KARINA**",
+            "name": "``aespa`` I'm the drama - **KARINA**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_kr.png?format=png",
             "theme": "I'm the drama",
         }
@@ -25,6 +25,41 @@
             "name": "``aespa`` I'm the drama - **NINGNING**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_nn.png?format=png",
             "theme": "I'm the drama",
+        }
+    ],
+        "pfen_cw": [
+        {
+            "name": "``LE SSERAFIM`` Perfect Energy - **CHAEWON**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_cw.png?format=png",
+            "theme": "Perfect Energy",
+        }
+    ],
+        "pfen_sk": [
+        {
+            "name": "``LE SSERAFIM`` Perfect Energy - **SAKURA**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_sk.png?format=png",
+            "theme": "Perfect Energy",
+        }
+    ],
+        "pfen_yj": [
+        {
+            "name": "``LE SSERAFIM`` Perfect Energy - **YUNJIN**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_yj.png?format=png",
+            "theme": "Perfect Energy",
+        }
+    ],
+        "pfen_kz": [
+        {
+            "name": "``LE SSERAFIM`` Perfect Energy - **KAZUHA**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_kz.png?format=png",
+            "theme": "Perfect Energy",
+        }
+    ],
+        "pfen_yj": [
+        {
+            "name": "``LE SSERAFIM`` Perfect Energy - **EUNCHAE**",
+            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_ec.png?format=png",
+            "theme": "Perfect Energy",
         }
     ]
 }
