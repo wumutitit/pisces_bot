@@ -1,114 +1,35 @@
 {
-    "aeitdr_kr_1": [
+    "aeitd_kr_co": [
         {
             "name": "``aespa`` I'm the drama - **KARINA**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_kr.png?format=png",
             "theme": "I'm the drama",
-            "code": "ae_itdr_kr"
+            "code": "aeitdr_kr_co"
         }
     ],
-        "aeitdr_gs_1": [
+{
+    "aeitd_gs_co": [
         {
             "name": "``aespa`` I'm the drama - **GISELLE**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_gs.png?format=png",
             "theme": "I'm the drama",
-            "code": "ae_itdr_gs"
+            "code": "aeitd_gs_co"
         }
     ],
-        "aeitdr_wt_1": [
+    "aeitd_wt_co": [
         {
             "name": "``aespa`` I'm the drama - **WINTER**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_wt.png?format=png",
             "theme": "I'm the drama",
-            "code": "ae_itdr_wt"
+            "code": "aeitd_wt_co"
         }
     ],
-        "aeitdr_nn_1": [
+    "aeitd_nn_co": [
         {
             "name": "``aespa`` I'm the drama - **NINGNING**",
             "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/aespa/im_the_drama/itdr_nn.png?format=png",
             "theme": "I'm the drama",
-            "code": "ae_itdr_nn"
-        }
-    ],
-        "lsfpfen_cw_1": [
-        {
-            "name": "``LE SSERAFIM`` Perfect Energy - **CHAEWON**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_cw.png?format=png",
-            "theme": "Perfect Energy",
-            "code": "lsf_pfen_cw"
-        }
-    ],
-        "lsfpfen_sk_1": [
-        {
-            "name": "``LE SSERAFIM`` Perfect Energy - **SAKURA**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_sk.png?format=png",
-            "theme": "Perfect Energy",
-            "code": "lsf_pfen_sk"
-        }
-    ],
-        "lsfpfen_yj_1": [
-        {
-            "name": "``LE SSERAFIM`` Perfect Energy - **YUNJIN**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_yj.png?format=png",
-            "theme": "Perfect Energy",
-            "code": "lsf_pfen_yj"
-        }
-    ],
-        "lsfpfen_kz_1": [
-        {
-            "name": "``LE SSERAFIM`` Perfect Energy - **KAZUHA**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_kz.png?format=png",
-            "theme": "Perfect Energy",
-            "code": "lsf_pfen_kz"
-        }
-    ],
-        "lsfpfen_ec_1": [
-        {
-            "name": "``LE SSERAFIM`` Perfect Energy - **EUNCHAE**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/le_sserafim/perfect_energy/pfen_ec.png?format=png",
-            "theme": "Perfect Energy",
-            "code": "lsf_pfen_ec"
-        }
-    ],
-        "rvvommw_ir_1": [
-        {
-            "name": "``Red Velvet`` On my milky way - **IRENE**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_ir.png?format=png",
-            "theme": "On my milky way",
-            "code": "rvv_ommw_ir"
-        }
-    ],
-        "rvvommw_sg_1": [
-        {
-            "name": "``Red Velvet`` On my milky way - **SEULGI**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_sg.png?format=png",
-            "theme": "On my milky way",
-            "code": "rvv_ommw_sg"
-        }
-    ],
-        "rvvommw_jo_1": [
-        {
-            "name": "``Red Velvet`` On my milky way - **JOY**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_jo.png?format=png",
-            "theme": "On my milky way",
-            "code": "rvv_ommw_jo"
-        }
-    ],
-        "rvvommw_wd_1": [
-        {
-            "name": "``Red Velvet`` On my milky way - **WENDY**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_wd.png?format=png",
-            "theme": "On my milky way"
-            "code": "rvv_ommw_wd"
-        }
-    ],
-        "rvvommw_yr_1": [
-        {
-            "name": "``Red Velvet`` On my milky way - **YERI**",
-            "image": "https://pisces-bot.sirv.com/cards/normal/girl_group/red_velvet/on_my_milky_way/ommw_yr.png?format=png",
-            "theme": "On my milky way",
-            "code": "rvv_ommw_yr"
+            "code": "aeitd_nn_co"
         }
     ]
 }
